@@ -1,8 +1,8 @@
-\# Homework 02 — Project Setup
+# Homework 02 — Project Setup
 
 
 
-\## Project Overview
+## Project Overview
 
 
 
@@ -10,27 +10,27 @@ This project analyzes apartment options in Downtown Brooklyn for incoming NYU Ta
 
 
 
-\## Project Structure
+## Project Structure
 
 
 
-\- `data/raw/` — raw project data
+- `data/raw/` — raw project data
 
-\- `data/processed/` — cleaned and processed data
+- `data/processed/` — cleaned and processed data
 
-\- `notebooks/` — Jupyter notebooks for analysis
+- `notebooks/` — Jupyter notebooks for analysis
 
-\- `src/` — reusable Python code and configuration
+- `src/` — reusable Python code and configuration
 
-\- `docs/` — project documentation
+- `docs/` — project documentation
 
-\- `reports/` — project outputs and reports
+- `reports/` — project outputs and reports
 
-\- `model/` — model-related files
+- `model/` — model-related files
 
 
 
-\## Environment Setup
+## Environment Setup
 
 
 
@@ -60,13 +60,13 @@ The project currently includes:
 
 
 
-\- A reproducible Python environment
+- A reproducible Python environment
 
-\- A NumPy demonstration notebook
+- A NumPy demonstration notebook
 
-\- Environment variable loading with `python-dotenv`
+- Environment variable loading with `python-dotenv`
 
-\- A reusable configuration file in `src/config.py`
+- A reusable configuration file in `src/config.py`
 
-\- Git ignore rules for secrets, cache files, and notebook checkpoints
+- Git ignore rules for secrets, cache files, and notebook checkpoints
 
