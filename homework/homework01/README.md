@@ -1,5 +1,6 @@
 # Project Title
 **Stage:** Problem Framing & Scoping (Stage 01)
+
 Identifying Bear Market Risk Using Market-Based Indicators
 
 ## Problem Statement
