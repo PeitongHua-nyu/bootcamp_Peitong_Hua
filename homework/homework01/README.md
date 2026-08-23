@@ -3,11 +3,9 @@
 
 ## Problem Statement
 
-Incoming NYU Tandon students who want to live off campus may have difficulty comparing apartment options in Downtown Brooklyn because rental prices, distance to campus and building amenities vary significantly. Students who are unfamiliar with the area may not know which apartment buildings provide the best balance between affordability, convenience and living preferences.
+Investors may have difficulty identifying periods of increased market risk before significant market declines occur. While Bear markets are generally identified after market prices have already fallen substantially, market-based probabilities may provide useful information about future market movements.
 
-
-
-This project will analyze apartments in Downtown Brooklyn and compare factors such as monthly rent, proximity to NYU Tandon, apartment type and selected building amenities. The goal is to provide incoming students with a clearer framework for evaluating housing options and making a more informed rental decision.
+This project will analyze historical S&P 500 market data and market-based probabilities to examine whether these indicators can help identify periods of increased Bear market risk. The goal is to provide a simple framework for understanding whether market-based indicators contain useful signals about changing market conditions.
 
 
 
