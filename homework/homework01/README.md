@@ -30,11 +30,11 @@ This project will analyze historical S&P 500 market data and market-based probab
 
 - The project will focus on the S&P 500 rather than individual stocks.
 
-Historical market data and market-based probabilities will be used.
+- Historical market data and market-based probabilities will be used.
 
-Historical relationships may not necessarily predict future market behavior.
+- Historical relationships may not necessarily predict future market behavior.
 
-The project will focus on identifying market risk rather than creating a complex trading strategy.
+- The project will focus on identifying market risk rather than creating a complex trading strategy.
 
 
 
@@ -42,9 +42,9 @@ The project will focus on identifying market risk rather than creating a complex
 
 - Market-based probabilities may not consistently predict major market declines.
 
-Probability data may not be available for every trading day.
+- Probability data may not be available for every trading day.
 
-Market conditions can change because of factors not represented in the selected data.
+- Market conditions can change because of factors not represented in the selected data.
 
 
 
