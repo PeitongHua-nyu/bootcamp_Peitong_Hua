@@ -1,5 +1,6 @@
 # Project Title
 **Stage:** Problem Framing & Scoping (Stage 01)
+Identifying Bear Market Risk Using Market-Based Indicators
 
 ## Problem Statement
 
@@ -11,41 +12,42 @@ This project will analyze historical S&P 500 market data and market-based probab
 
 ## Stakeholder \& User
 
-- Decision owner: Incoming NYU Tandon students
+- Decision owner: Individual investors
 
-- Tool/operator: Incoming NYU Tandon students/ students'parent
+- Tool/operator: Individual investors or financial analysts
 
 
 
 ## Useful Answer
 
-- Descriptive / Predictive / Causal: The project will primarily provide a descriptive and decision-support answer by comparing apartments on Downtown Brooklyn across various metrics.
+- Descriptive / Predictive / Causal: Descriptive and Predictive
 
-- Metric or artifact: monthly rent/ distance to NYU Tandon/ Apartment type/ building amenities/ safety/ management
-
+- Metric or artifact: S&P 500 returns, market drawdown, market-based probabilities, Bear/Bull market classification
 
 
 ## Assumptions \& Constraints
 
-- The project will focus only on downtown brooklyn rather than the entire new york rental market.
+- The project will focus on the S&P 500 rather than individual stocks.
 
-The rental information will be publicly available.
+Historical market data and market-based probabilities will be used.
 
-Students' preferences and budgets vary, so there may not be one apartment that is best for everyone.
+Historical relationships may not necessarily predict future market behavior.
+
+The project will focus on identifying market risk rather than creating a complex trading strategy.
 
 
 
 ## Known Unknowns / Risks
 
-- Unknown whether consistent listing-level data can be collected for all buildings.
+- Market-based probabilities may not consistently predict major market declines.
 
-Rental listings may disappear or change during the project.
+Probability data may not be available for every trading day.
 
-Some buildings may have limited current availability.
+Market conditions can change because of factors not represented in the selected data.
 
 
 
 ## Lifecycle Mapping
 
-- Goal(Help incoming NYU tandon students make informed housing decisions) → Stage 01(Problem framing and scoping) → Deliverable mapping bullets(Project scoping statement)
+- Goal(Identify periods of increased Bear market risk) → Stage 01(Problem framing and scoping) → Deliverable mapping bullets(Project scoping statement)
 
