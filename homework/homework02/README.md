@@ -6,8 +6,7 @@
 
 
 
-This project analyzes apartment options in Downtown Brooklyn for incoming NYU Tandon students. The goal is to help students compare housing options based on factors such as rent, proximity to campus, apartment type, and building amenities.
-
+This project analyzes historical S&P 500 market data and market-based probabilities to examine whether these indicators can help identify periods of increased Bear market risk. The goal is to provide a simple framework for understanding changes in market conditions and potential market risk.
 
 
 ## Project Structure
