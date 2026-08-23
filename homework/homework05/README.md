@@ -1,6 +1,6 @@
 ## Data Storage
 
-Using environment-driven paths for data storage.
+Using environment-driven paths for data storage in this homework.
 
 - `data/raw/` stores raw data in CSV format.
 - `data/processed/` stores processed data in Parquet format.
